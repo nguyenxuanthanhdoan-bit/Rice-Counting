@@ -1,0 +1,9 @@
+
+Yêu cầu:
+
+- Tạo 1 chuỗi xử lý chung để đếm số hạt gạo trong tất cả các ảnh
+
+Gợi ý:
+- Nên xem xét đặt các chuỗi xử lý theo một trật tự hợp lý để các phép xử lý trước không làm ảnh hưởng đến kết quả của giai đoạn sau quá nhiều
+- Có nhiều tham số cần phải lựa chọn, các tham số này sẽ phụ thuộc nhiều vào kích thước của ảnh. Nên xem xét chuẩn hoá kích thước của ảnh khi thực hiện các xử lý
+
